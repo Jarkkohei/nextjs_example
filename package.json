@@ -1,0 +1,21 @@
+{
+  "name": "nextjs_example",
+  "version": "1.0.0",
+  "description": "Next.js Example Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarkkohei/nextjs_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarkkohei/nextjs_example/issues"
+  },
+  "homepage": "https://github.com/Jarkkohei/nextjs_example#readme"
+}
