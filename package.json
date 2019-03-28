@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Jarkkohei/nextjs_example/issues"
   },
-  "homepage": "https://github.com/Jarkkohei/nextjs_example#readme"
+  "homepage": "https://github.com/Jarkkohei/nextjs_example#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
