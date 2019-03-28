@@ -1,6 +1,8 @@
 import React from  'react';
 import Link from 'next/link';
-import Router from 'next/router'
+import Router from 'next/router';
+
+import User from '../../components/User';
 
 const authIndexPage = () => (
     <div>
@@ -11,6 +13,7 @@ const authIndexPage = () => (
 
         {/* Navigate using the Router */}
         <p><button onClick={() => Router.push('/')}>Main</button></p>
+        <User name="Ronald" age={25} />
     </div>
 );
 
